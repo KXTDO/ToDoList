@@ -1,3 +1,5 @@
+!!!Пока что не доделано
+
 # todolist
 
 > A Vue.js project
